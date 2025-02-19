@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Sản phẩm 1",
+      "price": 1000,
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Sản phẩm 2",
+      "price": 2000,
+      "active": false
+    },
+    {
+      "name": "sản phẩm 3",
+      "price": "3000",
+      "active": false,
+      "id": "b5DgfpL"
+    }
+  ],
+  "users": []
+}
